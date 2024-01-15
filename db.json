@@ -8,25 +8,26 @@
 },
 "careers": [
 {
-"heading": "",
 "cards": [
 {
+ "slug": "sqa-engineer",
 "heading": "SQA Engineer",
 "text": "A Software Quality Assurance (SQA) Engineer, also known as a Software Tester or Quality Assurance Engineer, is a professional responsible for ensuring the quality and reliability of software applications or systems."
 },
 {
+  "slug": "php-developer",
 "heading": "PHP Developer",
 "text": "As a PHP developer, you specialize in using the PHP programming language to build web applications and websites. PHP is a widely used and popular server-side scripting language, particularly suited for web development."
 },
-{
+{ "slug": "react-developer",
 "heading": "React Developer",
 "text": "As a React developer, you'll be working with components, managing state and props, and handling events to create interactive and dynamic web applications."
 },
-{
+{ "slug": "node-js-developer",
 "heading": "Node.Js Developer",
 "text": "As a Node.js developer, work with JavaScript on the server side to build scalable and efficient web applications. Node.js is a runtime environment that allows you to run JavaScript code outside of a web browser, making it ideal for server-side"
 },
-{
+{ "slug": "laravel-developer",
 "heading": "Laravel Developer",
 "text": "At The Custom Websites, we're on a mission to deliver exceptional web solutions tailored to our clients' unique needs. We're currently seeking a skilled and motivated Laravel Developer to join our dynamic team. If you're passionate"
 }
