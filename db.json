@@ -1,21 +1,13 @@
 {
-"data": [
+"careerdata": [
 {
-"slug": "uiux-design",
-"id": "uiux-design",
+"slug": "careers",
+"id": "careers",
 "breadcrumbs": {
-"pageTitle": "Top-Rated UI and UX Design Services",
- "category": "UI and UX Design",
-"backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/eieclwkinaxntnpnjgdc.jpg"
+"pageTitle": "Careers",
+ "category": "Careers",
+"backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/contact-us-banner-min.jpg"
 },
-"description": [
-{
-"heading": "Top-Rated UI and UX Design Services",
-"text": [
- "At “The Custom Websites,” we provide UI and UX designs that meet the ultimate goals of our client’s company and bring them their desired outcomes. People, when visiting a website they are only behind one thing: information. They want that information as quickly and efficiently as possible, and we care about your visitors. Therefore, we provide UI design and development services and user experience design services (UX) so that your customers can interact with you on the go.",
-"Our UI UX design agency aspires to provide custom websites or mobile design that creates a professional look for your business. Our experts analyze and research your business to provide highly engaging designs that correlate with your business requirements and help grow your business. Our captivating UI designs will quickly grab your audience’s attention, and visually appealing designs will keep them engaged, thus enhancing the user experience."
-]}
-],
 "tech": [
 {
 "techHeading": "We Create Latest UI & UX Design With Emerging Technologies",
